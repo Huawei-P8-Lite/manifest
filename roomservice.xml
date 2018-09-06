@@ -6,7 +6,7 @@
   <project name="Huawei-P8-Lite/android_packages_apps_Nfc" path="packages/apps/Nfc" remote="github" revision="cm-14.1" />
   <project name="Huawei-P8-Lite/android_system_bt" path="system/bt" remote="github" revision="cm-14.1" />
   <project name="Huawei-P8-Lite/android_frameworks_opt_telephony" path="frameworks/opt/telephony" remote="github" revision="cm-14.1" />
-  <project name="Huawei-P8-Lite/android_bionic" path="system/bionic" remote="github" revision="cm-14.1" />
+  <project name="Huawei-P8-Lite/android_bionic" path="bionic" remote="github" revision="cm-14.1" />
   <project name="Huawei-P8-Lite/android_system_core" path="system/core" remote="github" revision="cm-14.1" />
   <project name="Huawei-P8-Lite/android_frameworks_native" path="frameworks/native" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-14.1" />
