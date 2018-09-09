@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="Huawei-P8-Lite/android_device_huawei_alice" path="device/huawei/alice" remote="github" revision="cm-14.1" />
-  <project name="Huawei-P8-Lite/android_kernel_huawei_hi6210sft" path="kernel/huawei/hi6210sft" remote="github" revision="7.x" />
+  <project name="Huawei-P8-Lite/android_kernel_huawei_hi6210sft" path="kernel/huawei/alice" remote="github" revision="7.x" />
   <project name="Huawei-P8-Lite/android_vendor_huawei_alice" path="vendor/huawei/alice" remote="github" revision="7.x" />
   <project name="Huawei-P8-Lite/android_packages_apps_Nfc" path="packages/apps/Nfc" remote="github" revision="cm-14.1" />
   <project name="Huawei-P8-Lite/android_system_bt" path="system/bt" remote="github" revision="cm-14.1" />
