@@ -9,7 +9,4 @@
   <project name="Huawei-P8-Lite/android_frameworks_opt_telephony" path="frameworks/opt/telephony" remote="github" revision="cm-14.1" />
   <project name="Huawei-P8-Lite/android_bionic" path="bionic" remote="github" revision="cm-14.1" />
   <project name="Huawei-P8-Lite/android_frameworks_native" path="frameworks/native" remote="github" revision="cm-14.1" />
-  <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-14.1" />
-  <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
-  <project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="cm-14.1" />
 </manifest>
